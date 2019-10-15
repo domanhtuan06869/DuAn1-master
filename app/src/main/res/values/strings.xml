@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Sức khỏe24h</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">   Mật khẩu</string>
+    <string name="Email">  Email</string>
+    <string name="dangki">Đăng kí</string>
+    <string name="chaphanh">đồng ý với điều khoản cộng đồng</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="chuaccotk">Đăng Kí</string>
+    <string name="benhvien">Tìm Bệnh Viện</string>
+    <string name="thuoc">thuốc</string>
+    <string name="congdong">Cộng Đồng</string>
+    <string name="socuu">Sơ Cứu</string>
+    <string name="timbenhvien">Tìm bệnh viện</string>
+    <string name="timkqh">tìm theo quận/huyện</string>
+    <string name="timttinh">tìm theo tỉnh</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sett_reminder_header">nhắc nhở</string>
+    <string name="sett_reminder_label">nhac lai</string>
+    <string name="sett_reminder_desc">nhắc thuc hiện kế hoạch</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="giathuoc">Giá thuốc :</string>
+    <string name="thanhphan">Thành phần :</string>
+    <string name="chidinh">chỉ định :</string>
+    <string name="chongchidinh">Chống chỉ định :</string>
+    <string name="cachdung">Cách dùng :</string>
+    <string name="tacdungphu">Tác dụng Phụ :</string>
+    <string name="chuy">Chú ý :</string>
+    <string name="share">Chia sẻ</string>
+    <string name="taobaiviet">Tạo bài viết</string>
+    <string name="alarm">Báo Uống Thuốc</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="vibrate">Bật tắt âm lượng</string>
+    <string name="label">Ghi chú</string>
+    <string name="count">Số lần báo lại</string>
+    <string name="gap">Thời gian báo</string>
+    <string name="vol">Âm lượng</string>
+    <string name="go">Đặt báo uống thuốc</string>
+    <string name="tuoi">Tuổi</string>
+    <string name="chieu">Chiều cao</string>
+    <string name="cannang">Cân nặng</string>
+    <string name="ketqua">Kết quả BMI</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="gay"><![CDATA[< 18.5]]></string>
+    <string name="dangnhapcd">Đăng nhập cộng đồng</string>
+    <string name="dangkicd">Đăng kí</string>
+    <string name="about">Ứng dụng giúp mọi người bảo vệ sức khỏe trong dự án 1 của trường cao đẳng thực hành FPT Polytechnic</string>
+    <string name="aboutme">Ứng dụng được viết bởi Đỗ Mạnh Tuân và Nguyễn Đức Minh. Email: domanh.tuanpt@gmail.com</string>
+    <string-array name="no_of_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="hours">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="min">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+</resources>

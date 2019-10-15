@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/steps"
+            android:icon="@drawable/dibo"
+            android:title="Đếm bước đi" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/khoiluongct"
+            android:icon="@drawable/banchan"
+            android:title="Đo khối lượng cơ thể" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ncothe"
+            android:icon="@drawable/nuoc"
+            android:title="Đo khối lượng nước cần " />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/baouongthuoc"
+            android:icon="@drawable/baouongthuoc"
+            android:title="Báo uống thuốc" />
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/docbao"
+            android:title="Báo sức khỏe" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutme"
+            android:icon="@drawable/aboutmee"
+            android:title="Về chúng tôi" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/exits"
+            android:icon="@drawable/ic_close_black_24dp"
+            android:title="Thoát" />
+    </group>
+</menu>

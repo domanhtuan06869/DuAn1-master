@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233913269030",
+    "firebase_url": "https://testfirebase-7909d.firebaseio.com",
+    "project_id": "testfirebase-7909d",
+    "storage_bucket": "testfirebase-7909d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233913269030:android:29cc9123670a5cdd",
+        "android_client_info": {
+          "package_name": "com.cao.nang.duan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233913269030-i3f1jqg2sdct538unvba5fnuajct9858.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTa_6_wK6oXItZ9x4VPJNY9J9GMbpQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233913269030-i3f1jqg2sdct538unvba5fnuajct9858.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
